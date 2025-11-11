@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # front-end-andrea
 
 # Meu Projeto Front-End
@@ -12,6 +11,3 @@ Aplicação simples que exibe um componente com propriedades.
 - Vite
 - React
 - JavaScript
-=======
-# front-end-andrea
->>>>>>> 2d9150c6ff185fc67b88f32d38f9841fc196f493
